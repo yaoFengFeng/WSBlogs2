@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">温商博客</string>
+    <string name="app_title">温商博客</string>
+    <string name="app_login">登录</string>
+    <string name="forget">忘记密码？</string>
+    <string name="register">注册</string>
+    <string name="justlool">随便看看</string>
+    <string name="hint">手机号|昵称</string>
+    <string name="pwd_hint">密码</string>
+    <string name="nickname">你的昵称</string>
+    <string name="phone_num">你的手机号</string>
+    <string name="to_login">已有账户登录</string>
+    <string name="get_code">发送验证码</string>
+    <string name="code_hint">输入验证码</string>
+    <string name="welcome_title">创作你的创作</string>
+    <string name="welcome_info">一个优质创作社区</string>
+    <string name="retrieve_pwd">重置密码</string>
+    <string name="new_pwd">请输入新的密码</string>
+    <string name="new_pwd_again">请再次输入新的密码</string>
+    <string name="phone_edt">请输入你的手机号</string>
+    <string name="get_code_again">重发</string>
+    <string name="done">完成</string>
+</resources>
